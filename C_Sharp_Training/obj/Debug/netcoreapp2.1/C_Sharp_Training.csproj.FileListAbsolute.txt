@@ -1,0 +1,11 @@
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/bin/Debug/netcoreapp2.1/C_Sharp_Training.deps.json
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/bin/Debug/netcoreapp2.1/C_Sharp_Training.runtimeconfig.json
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/bin/Debug/netcoreapp2.1/C_Sharp_Training.runtimeconfig.dev.json
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/bin/Debug/netcoreapp2.1/C_Sharp_Training.dll
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/bin/Debug/netcoreapp2.1/C_Sharp_Training.pdb
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/obj/Debug/netcoreapp2.1/C_Sharp_Training.csprojAssemblyReference.cache
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/obj/Debug/netcoreapp2.1/C_Sharp_Training.csproj.CoreCompileInputs.cache
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/obj/Debug/netcoreapp2.1/C_Sharp_Training.AssemblyInfoInputs.cache
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/obj/Debug/netcoreapp2.1/C_Sharp_Training.AssemblyInfo.cs
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/obj/Debug/netcoreapp2.1/C_Sharp_Training.dll
+/Users/brandonroesler/Code/C_Sharp_Training/C_Sharp_Training/obj/Debug/netcoreapp2.1/C_Sharp_Training.pdb
